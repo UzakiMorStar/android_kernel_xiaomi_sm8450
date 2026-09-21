@@ -163,3 +163,9 @@ arch/arm/boot/dts/vendor
 
 # Documentation toolchain
 sphinx_*/
+
+#Temporary build files
+/KernelSU/
+/out/
+/common/drivers/kernelsu
+/drivers/kernelsu
